@@ -116,3 +116,5 @@ A Sim Cache can be created to record and freeze Niagara FX to get them perfect f
 You can find TODM/DSA settings in the World Settings tab. Please use these instead of the Time of Day dropdown added at the top of the viewport by using a DSA, those settings wont save to the level but these will.
 
 ![](./images/t3.png)
+
+Fortnite boosts the brightness on the lighting for better game performance. Press Perspective and turn off Game Settings and this will result in a more Natural lighting such as darker nights and so on. Really good overall. Wouldn't recommend on OG/CH1,CH2 Or CH3 as their lighting plays into the brightness!
